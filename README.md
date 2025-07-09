@@ -1,6 +1,4 @@
-Great! Here's an **updated README** with the live deployment link included:
 
----
 
 # 🎵 Musio Coin
 
@@ -153,6 +151,3 @@ We're building a world where **every piece of creative work can be owned, traded
 🔗 [Start Creating](https://musiocoins.vercel.app/)
 📨 Contact: [hello@musiocoin.xyz](mailto:hello@musiocoin.xyz)
 
----
-
-Let me know if you'd like a **pitch deck**, **landing page**, or **submission description for a hackathon**!
